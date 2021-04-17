@@ -1,0 +1,17 @@
+.button {
+    background-color:rgb(70, 70, 70); /* Green */
+    border: none;
+    color: hsl(0, 0%, 5%);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+p {
+    color: lightgreen;
+}
+
+body {
+    background-color: rgb(33, 42, 42);
+}
